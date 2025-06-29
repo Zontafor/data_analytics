@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/final-venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.kernel.defaultKernel": "Python (final-venv)"
+}
